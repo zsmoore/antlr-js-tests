@@ -1,0 +1,22 @@
+{
+  "name": "antlr-js-tests",
+  "version": "0.0.1",
+  "description": "Testing antlr with javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsmoore/antlr-js-tests.git"
+  },
+  "author": "Zachary Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsmoore/antlr-js-tests/issues"
+  },
+  "homepage": "https://github.com/zsmoore/antlr-js-tests#readme",
+  "devDependencies": {
+    "antlr4": "^4.7.1"
+  }
+}
